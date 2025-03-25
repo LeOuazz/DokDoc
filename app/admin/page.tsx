@@ -47,7 +47,7 @@ const AdminPage = async () => {
             icon={"/assets/icons/pending.svg"}
           />
           <StatCard
-            type="canceled"
+            type="cancelled"
             count={appointments.cancelledCount}
             label="Cancelled appointments"
             icon={"/assets/icons/cancelled.svg"}
