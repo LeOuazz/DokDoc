@@ -1,0 +1,11 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <codeStyleSettings language="JavaScript">
+      <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
+    </codeStyleSettings>
+    <codeStyleSettings language="TypeScript">
+      <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
+      <option name="PARENTHESES_EXPRESSION_LPAREN_WRAP" value="true" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>
